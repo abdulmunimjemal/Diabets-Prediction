@@ -42,4 +42,4 @@ I have commented on what has to be commented.Check the last line on how to load 
 
 ## Contributing
 
-Contributions to this project are welcome. If you have any suggestions for improvement or would like to add new features, feel free to submit a pull request.
+Contributions to this project are welcome. If you have any suggestions for improvement or would like to add new features, feel free to submit a pull request :)
